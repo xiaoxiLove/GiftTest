@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    //哈哈哈哈
+    //啦啦啦啦啦啦啦啦啦啦
 }
 
 - (void)didReceiveMemoryWarning {
